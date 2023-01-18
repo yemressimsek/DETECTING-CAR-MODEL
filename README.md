@@ -1,6 +1,6 @@
 # DETECTING-CAR-MODEL
 **About The Project**
-The project aims to detect model and brand of cars. Also,it gives a ads detected cars in "sahibinden.com".
+The project aims to detect model and brand of cars. Also,it gives ads detected cars in "sahibinden.com".
   
   
 ## Interface
